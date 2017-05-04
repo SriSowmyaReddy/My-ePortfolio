@@ -1,0 +1,263 @@
+
+body{
+    overflow-x: hidden;
+    width:100%;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: #ffffff !important;
+}
+
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+    border-color: #101010;
+}
+
+.background
+    {
+    background-image: url("images/background.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width:100%; height:auto;
+    background-attachment: fixed;
+    }
+#Skills
+{
+    background-image: url("https://designschool.canva.com/wp-content/uploads/sites/2/2015/10/432.jpg");
+
+     background-color: #cccccc;
+    background-size: cover;
+}
+
+#Education
+{
+    background-image: url("https://devrabbit.net/assets/img/2.jpg");
+    background-color: #cccccc;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+#Certifications
+{
+    background-image: url("http://simerdo.com/testsimerdo2/wp-content/uploads/2016/06/computer_keyboard_mouse_laptop_mac_apple_hd-wallpaper-64145.jpg");
+
+     background-color: #cccccc;
+    background-size: 100% 100%;
+}
+.row
+    {
+        margin:0px auto;
+        padding-bottom:10px;
+    }
+.img-responsive, .thumbnail a>img, .thumbnail>img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 50px;
+    
+}
+.column2
+{
+    padding-left:20px;
+}
+.para {
+    font-family: timesnewroman;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.header
+    {
+        font-family: timesnewroman;
+        font-size: 30px;
+        color: white;
+        margin-left:30px;
+        margin-top: 100px;
+    }
+.header1 {
+    color: white;
+    font-family: timesnewroman;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.main{
+    padding-bottom: 100px;
+}
+.skillset
+{
+    
+    padding-bottom: 40px;
+}
+.content {
+    margin-right: 0px;
+    margin-left: 0px;
+}
+.head
+    {
+        text-align: center;
+        color: white;
+        font-family: timesnewroman;
+        font-weight:bold;
+        margin-top:100px;
+    }
+
+.head1
+    {
+        text-align: center;
+        color: white;
+        font-family: timesnewroman;
+        font-weight:bold;
+        margin-top:50px;
+    }
+.first{
+    margin-top:30px;
+}
+.img-thumbnail{
+      margin-top:50px;
+      width: 400px;
+      height:400px;
+    margin-left: 30px;
+    }
+hr.headLine {
+	color: white;
+    margin: 14px auto 30px;
+    padding: 0;
+    max-width: 1485px;
+    border: 0;
+    border-top: solid 5px;
+    text-align: center;
+}
+
+hr.headLine1 {
+	color: white;
+    margin: 0px auto 30px;
+    padding: 0;
+    max-width: 1485px;
+    border: 0;
+    border-top: solid 5px;
+    text-align: center;
+}
+.skills
+    {
+        color:white;
+        font-family: timesnewroman;
+        font-size: 20px;
+        
+    }
+.headskills
+    {
+        color: white;
+        font-family: timesnewroman;
+        font-weight: bold;
+        margin-top: 10px;
+        text-align: center;
+    }
+
+.eduhead
+    {
+        color:white;
+        font-family: timesnewroman;
+        font-size:30px;
+        text-align:center;
+    }
+.masters
+    {
+        color:white;
+        font-family: timesnewroman;
+        font-size:20px;
+        text-align:center;
+    }
+.text-info{
+        font-family: timesnewroman;
+        font-size: 20px;
+        text-align: center;
+    }
+.h3, h3 {
+    font-size: 24px;
+    text-align: center;
+}  
+.overflow{
+        height:400px;
+        overflow: auto;
+    }
+    
+.container .jumbotron, .container-fluid .jumbotron {
+    padding-right: 15px;
+    padding-left: 15px;
+    border-radius: 0px;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #2e6da4;
+    margin-left: 85px;
+}
+.btn-lg {
+    padding: 10px 16px;
+    font-size: 18px;
+    line-height: 1.3333333;
+    border-radius: 6px;
+    margin-left: 50px;
+}
+img {
+    vertical-align: middle;
+    width: 100%;
+    height: 258px;
+}
+.certification 
+{
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+}
+.work
+{
+    font-family: timesnewroman;
+    font-size: 20px;
+    text-align: center;
+    width: 90%;
+    margin: 0px auto;
+}
+
+footer {
+	width: 100%;
+	position: absolute;
+    margin-top:25px;
+    background-color: black;
+    padding: 20px 0px 10px 0px;
+    
+    
+}
+footer i{
+padding: 0px 8px 0px 8px;
+color: white;
+}
+
+label{
+	color: #0683B0 ;
+	font-size: 20px;
+}
+
+
+.btn-primary {
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #2e6da4;
+    margin-left: 0px;
+    font-size: 20px;
+}
+.copyright
+{
+    color:#ffffff;
+}
+.size
+{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.view {
+    margin-left: 40px;
+}
+
